@@ -27,13 +27,13 @@ The FuTour app is an immersive digital exploration of the diverse natural beauty
 
 | No. |            Member           | Student ID  |        Path         |        Contacts        |
 |:---:| :-------------------------- | :---------- | :------------------ | :--------------------- |
-|  1  | M.Farkhan Pratama           | M308BSY1773 |  Machine Learning   | <a href="https://www.linkedin.com/in/m-farkhan-pratama/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  2  | M. Fatih Rabbani            | M308BSY1458 |  Machine Learning   | <a href="https://www.linkedin.com/in/m-fatih-rabbani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  3  | Irzan Luthfi Al Khalid      | M283BSY1198 |  Machine Learning   | <a href="https://www.linkedin.com/in/irzanluthfi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  4  | Charderra Eka Bagas Sanjaya | C204BSY3770 |  Cloud Computing    | <a href="https://www.linkedin.com/in/charderra-sanjaya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  5  | Muhamad Amri Al Iklas       | C324BSY4056 |  Cloud Computing    | <a href="https://www.linkedin.com/in/muhamad-amri-al-iklas/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  6  | Rahmi Anisa                 | A308BSX2307 |  Mobile Development | <a href="https://www.linkedin.com/in/rahmi-anisa/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  7  | Muhamad Hafizh Alfayez      | A012BSY2998 |  Mobile Development | <a href="https://www.linkedin.com/in/muhamad-hafizh-alfayez/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  1  | R Mohamad Adrian Ramadhan H | M010B4KY3548  |  Machine Learning   | <a href="https://www.linkedin.com/in/adrian-voiz/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  2  | Adilla Rifqi Muhammad       | M002B4KY0095  |  Machine Learning   | <a href="https://www.linkedin.com/in/adilla-rifqi-muhammad-a37bbb226/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  3  | Bryan Guok                  | M002B4KY0877  |  Machine Learning   | <a href="https://www.linkedin.com/in/bryan-guok/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  4  | Raihan Lail Ramadhan        | C550B4NY3648  |  Cloud Computing    | <a href="https://www.linkedin.com/in/raihan-lail-ramadhan-750909220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  5  | Muhammad Asyraf Faiz Kamil  | C550B4NY2752  |  Cloud Computing    | <a href="https://www.linkedin.com/in/muhammad-asyraf-faiz-kamil-749192222/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  6  | Sherly Ratna Musva          | A308B4KX4137  |  Mobile Development | <a href="https://www.linkedin.com/in/sherly-ratna-musva-90300927b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  7  | Syazliana Nuro              | A308B4KX4268  |  Mobile Development | <a href="https://www.linkedin.com/in/syazliananuro/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 
 </div>
 
